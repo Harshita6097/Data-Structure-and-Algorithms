@@ -1,2 +1,3 @@
-# Data-Structure-and-Algorithms
-Data Structures and Algorithms with Java
+# Data Structures and Algorithms — Java
+
+A repository for DSA problem solving and implementations in Java.
