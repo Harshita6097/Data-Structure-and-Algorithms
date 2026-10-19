@@ -1,6 +1,6 @@
 import java.util.*;
 
-class Solution {
+class QuickSort {
     static int partition(List<Integer> arr, int low, int high) {
         int pivot = arr.get(low);
         int i = low;

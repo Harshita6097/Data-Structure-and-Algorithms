@@ -8,10 +8,8 @@ public class segregate0sand1s {
             else if(arr[i]==1 && arr[j]==0){
                 arr[i]=0;
                 arr[j]=1;
-            }
-            else if(arr[i]==1 && arr[j]==0){
-                arr[i]=0;
-                arr[j]=1;
+                i++;
+                j--;
             }
            
         }
